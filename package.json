@@ -1,0 +1,25 @@
+{
+  "name": "burger-api",
+  "version": "1.0.0",
+  "description": "API em NodeJS para hamburgueria, utilizando Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoHenrique8/node-burger-api.git"
+  },
+  "author": "Leonardo Neves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoHenrique8/node-burger-api/issues"
+  },
+  "homepage": "https://github.com/LeoHenrique8/node-burger-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3",
+    "uuid": "^9.0.1"
+  }
+}
